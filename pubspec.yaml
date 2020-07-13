@@ -1,0 +1,44 @@
+name: expenses
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+    sdk: ">=2.1.0 <3.0.0"
+
+# Arquivos yaml são sensíveis ao espaçamento
+dependencies:
+    flutter:
+        sdk: flutter
+    intl: 0.16.1
+    shared_preferences: '^0.5.0'
+    cupertino_icons: ^0.1.2
+    splashscreen:
+    dynamic_theme: ^1.0.1
+    flutter_launcher_icons: ^0.7.5
+
+dev_dependencies:
+    flutter_test:
+        sdk: flutter
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path_ios: "assets/icon/icon.jpeg"
+  image_path_android: "assets/icon/icon.jpeg"
+
+flutter:   
+    uses-material-design: true  
+    assets:
+        - assets/images/waiting.png
+    fonts:
+        - family: OpenSans
+          fonts:
+              - asset: assets/fonts/OpenSans-Regular.ttf
+              - asset: assets/fonts/OpenSans-Bold.ttf
+                weight: 700
+        - family: Quicksand
+          fonts:
+              - asset: assets/fonts/Quicksand-Regular.ttf
+              - asset: assets/fonts/Quicksand-Bold.ttf
+                weight: 700
+    

@@ -3,7 +3,7 @@
 :iphone: Aplicativo para controle de compras :chart_with_upwards_trend:
 
 <p>
-Esse projeto foi feito utilizando Flutter, lecionado na diciplina de Dispositivos móveis pelo professor Kleber Andrade, ultilizando componentes adaptativos para smartphones Android e IOS e adaptabilidade da tela para orientação paisagem ou retrato.
+Esse projeto foi feito utilizando Flutter, linguagem principal lecionada na diciplina de Dispositivos móveis pelo professor Kleber Andrade, ultilizando componentes adaptativos para smartphones Android e IOS e adaptabilidade da tela para orientação paisagem ou retrato.
 </p>
 
 
